@@ -1,13 +1,55 @@
-- 👋 Hi, I’m @abdellahjouhad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ## hello
+# 👋 Bonjour, je suis \*\* Abdellah Jouhad\*\*
 
-<!---
-abdellahjouhad/abdellahjouhad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Étudiant en développement web
+💼 Passionné par les technologies modernes
+🚀 À la recherche de nouveaux défis techniques
+
+---
+
+## 🧑‍💻 À propos de moi
+
+Je suis un développeur full-stack en formation, avec une forte motivation pour concevoir des applications web performantes, maintenables et utiles. J’aime apprendre continuellement et m’impliquer dans des projets concrets, en équipe ou en autonomie.
+
+---
+
+## 🛠️ Compétences techniques
+
+* **Frontend** : HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS
+* **Backend** : PHP, Laravel, Node.js, Express.js
+* **Base de données** : MySQL, MongoDB
+* **Outils & DevOps** : Git & GitHub, Docker, Postman, Visual Studio Code, Jira
+* **Méthodologie** : Agile (Scrum), MVC, UML
+
+---
+
+## 🚧 Projets récents
+
+* 📘 **MenaraEval**
+  Application d’évaluation RH pour formateurs et employés
+  *React.js + Laravel + MySQL*
+
+* ☁️ **Déploiement d’API Node.js sur Azure**
+  Création d’une API RESTful avec MongoDB, Docker & Docker Compose
+
+* 📊 **TP MongoDB & SQL**
+  Manipulation avancée de données : `$group`, `$match`, triggers, jointures complexes...
+
+---
+
+## 🌱 En cours d’apprentissage
+
+* TypeScript
+* GitHub Actions & CI/CD
+* Bonnes pratiques de sécurité web
+
+---
+
+## 📫 Contact
+
+* 📧 Email : \[[ton.email@example.com](mailto:ton.email@example.com)]
+* 💼 LinkedIn : [linkedin.com/in/abdellahjouhad](https://linkedin.com/in/abdellahjouhad) *(à adapter si tu as un compte)*
+* 🌐 Portfolio : \[tonportfolio.com] *(optionnel)*
+
+---
+
+Merci pour votre visite ! N’hésitez pas à me suivre ou à collaborer avec moi sur un projet 🤝

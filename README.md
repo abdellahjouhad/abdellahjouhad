@@ -46,9 +46,7 @@ Je suis un développeur full-stack en formation, avec une forte motivation pour 
 
 ## 📫 Contact
 
-* 📧 Email : \[[ton.email@example.com](mailto:ton.email@example.com)]
-* 💼 LinkedIn : [linkedin.com/in/abdellahjouhad](https://linkedin.com/in/abdellahjouhad) *(à adapter si tu as un compte)*
-* 🌐 Portfolio : \[tonportfolio.com] *(optionnel)*
+* 📧 Email : \[[abdellah2022jouhad@gmail.com](abdellah2022jouhad@gmail.com)]
 
 ---
 

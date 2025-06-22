@@ -60,17 +60,17 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smiti-abdellah&layout=compact&theme=tokyonight)  
-![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=smiti-abdellah&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smiti-abdellah&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahjouhad&layout=compact&theme=tokyonight)  
+![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellahjouhad&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdellahjouhad&theme=tokyonight)
 
 ---
 
 ## 📫 Me contacter
 
-- 📧 Email : [abdellah.jouhad@example.com](mailto:abdellah.jouhad@example.com)  
+- 📧 Email : [abdellah2022jouhad@gmail.com](mailto:abdellah2022jouhad@gmail.com)  
 - 💼 LinkedIn : [linkedin.com/in/abdellahjouhad](https://linkedin.com/in/abdellahjouhad)  
-- 🔗 GitHub : [github.com/smiti-abdellah](https://github.com/smiti-abdellah)
+- 🔗 GitHub : [github.com/abdellahjouhad](https://github.com/abdellahjouhad)
 
 ---
 
